@@ -1,6 +1,4 @@
 <!-- ### Hi there 👋 -->
-###👋 Hello, I'm Yuvraj Sharma!
-
 # 💫 About Me:
 👋 Hello, I'm Yuvraj Sharma!<br><br>🌟 I'm passionate about programming, and I thrive on solving complex problems through code.<br><br>🚀 I love working with C, Java, JavaScript, and I'm always eager to learn new ones.<br>
 
